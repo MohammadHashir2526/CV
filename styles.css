@@ -1,0 +1,153 @@
+body{
+    background-color: #FCE4EC;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main_content{
+    background-color: #ffffff;
+    width: 732px;
+    height: 296px;
+    border: 1px solid #ffffff;
+    position: absolute;
+    top: 124px;
+    left: 829px;
+    line-height: 24px;
+}
+.main_content1{
+    position: relative;
+    top: 13px;
+    left: 10px;
+}
+.development{
+    background-color: #ffffff;
+    width: 366px;
+    height: 350px;
+    border: 1px solid #ffffff;
+    position: absolute;
+    top: 422px;
+    left: 829px;
+    line-height: 22px;
+}
+.heading{
+    font-size: larger;
+    position: relative;
+    left: 14px;
+}
+.heading1{
+    position: relative;
+    left: 10px;
+}
+svg {
+    width: 40px;
+    height: 30px;
+    position: relative;
+    left: 10px;
+}
+.deve_content{
+    position: relative;
+    left: 1px;
+}
+.layer{
+    position: absolute;
+    top: 300px;
+}
+.SEO_Optimization{
+    background-color: #ffffff;
+    width: 366px;
+    height: 350px;
+    border: 1px solid #ffffff;
+    position: absolute;
+    top: 422px;
+    left: 1197px;
+    line-height: 22px;
+}
+.rocket{
+    position: absolute;
+    top: 71px;
+    left: 20px;
+}
+.profile{
+    width: 469px;
+    height: 716px;
+    position: absolute;
+    top: -332px;
+    right: 735px;
+    box-shadow: -6px 3px 29px -2px;
+}
+.name{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    position: absolute;
+    top: 161px;
+    left: -698px;
+}
+.sheild_icon{
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top: 232px;
+}
+.navi{
+    background-color: #fff;
+    width: 80px;
+    height: 649px;
+    position: absolute;
+    top: -299px;
+    left: -918px;
+}
+.menu{
+    position: absolute;
+    top: 11px;
+    left: 20px;
+    background-color: #E0E0E0;
+}
+.about_me{
+    position: absolute;
+    top: 152px;
+    left: 15px;
+    background-color: #E0E0E0;
+}
+.message_icon{
+    position: absolute;
+    top: 220px;
+    left: 15px;
+}
+.write_icon{
+    position: absolute;
+    top: 278px;
+    left: 11px;
+}
+.glasses_icon{
+    position: absolute;
+    top: 360px;
+    left: 14px;
+    width: 48px;
+}
+.bag_icon{
+    position: absolute;
+    top: 424px;
+    left: 14px;
+    width: 48px;
+}
+.cloud_icon{
+    position: absolute;
+    top: 594px;
+    left: 14px;
+    width: 48px;
+    background-color: #E0E0E0;
+}
+.facebook_logo{
+    position: absolute;
+    top: 52px;
+    left: -22px;
+}
+.whatsapp_logo{
+    position: absolute;
+    top: 52px;
+    left: 60px;
+}
+.phone_logo{
+    position: absolute;
+    top: 57px;
+    left: 148px;
+}
